@@ -2,30 +2,25 @@
 
 # Dicee
 
-## Our Goal
+## My Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+The objective of this mini project is to introduce to the core programming concepts that will form the foundation of most of the apps I will build in the future. This app will represent a lot of important programming knowledge, while building a neat dice app.
 
-## What you will create
+## What I was created
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+I was created a Las Vegas dice app. I can make the die roll at the press of a button or by shaking phone. With this app in our pocket, i will be fully set up to settle any score on the go!
 
 
-## What you will learn
+## What i was learn with building this mini project
 
-* How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
 * Create links between the Interface Builder files and code using IBActions and IBOutlets.
 * Get familiar with the Xcode code editor.
 * * Learn to use comments to annotate code.
 * Understand and use Swift constants and variables.
 * Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+* Test and debug app with the Xcode console.
+* Learned about randomisation and how to generate random numbers in Swift.
 
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+Thank's !
 
